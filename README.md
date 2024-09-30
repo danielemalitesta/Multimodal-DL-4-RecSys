@@ -15,10 +15,6 @@ On such premises, this lecture will delve into the topic of multimodal deep lear
 
 ## Main information
 
-<div>
-  <img src="https://danielemalitesta.github.io/images/profilo_new.jpeg" alt="instructor" width="100">
-</div>
-
 * **Instructor:** [Daniele Malitesta](https://danielemalitesta.github.io/) (reach out to me: [email](mailto:d.malitesta@gmail.com))
 * **Date:** Wednesday, October 9, 2024
 * **Duration:** 15:30 - 16:50 CET (80 min)
