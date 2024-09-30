@@ -48,6 +48,16 @@ On such premises, this lecture will delve into the topic of multimodal deep lear
 
 ### Other useful resources
 
+**Main papers**
+| Title                                                                                                              | Paper                                                                | Code                                                       |
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------|
+| Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation                                           | [arXiv](https://arxiv.org/abs/2409.15857)                            | [GitHub](https://github.com/sisinflab/Ducho-meets-Elliot)  |
+| Formalizing Multimedia Recommendation through Multimodal Deep Learning                                             | [TORS](https://dl.acm.org/doi/10.1145/3662738)                       | [GitHub](https://github.com/sisinflab/Formal-MultiMod-Rec) |
+| Ducho 2.0: Towards a More Up-to-Date Unified Framework for the Extraction of Multimodal Features in Recommendation | [The Web Conference](https://dl.acm.org/doi/10.1145/3589335.3651440) | [GitHub](https://github.com/sisinflab/Ducho)               |
+| Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation                             | [ACM Multimedia](https://dl.acm.org/doi/10.1145/3581783.3613458)     | [GitHub](https://github.com/sisinflab/Ducho)               |
+
+**Side papers**
+
 ## Leave a comment
 If you have attended the lecture, please leave a comment in this **anonymous** form. It will take a few minutes, but it can be very important to me to improve the quality of the lecture! Thank you for your contribution!
 
