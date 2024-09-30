@@ -46,6 +46,7 @@ On such premises, this lecture will delve into the topic of multimodal deep lear
 ## Useful resources
 
 ### Lecture resources
+* **Google drive folder:** _Coming soon_
 * **Slides:** _Coming soon_
 * **Google Colab:** _Coming soon_
 
