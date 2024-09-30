@@ -53,7 +53,7 @@ On such premises, this lecture will delve into the topic of multimodal deep lear
 ### Other useful resources
 
 ## Leave a comment
-If you have attended the lecture, please leave a comment in this **anonymous** form. It will take a few minutes, but it can be very important to me to improve the quality of the lecture!
+If you have attended the lecture, please leave a comment in this **anonymous** form. It will take a few minutes, but it can be very important to me to improve the quality of the lecture! Thank you for your contribution!
 
 ## Credits
 
