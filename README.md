@@ -65,7 +65,7 @@ On such premises, this lecture will delve into the topic of multimodal deep lear
 | A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems | [CVFAD@CVPR](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Deldjoo_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_CVPRW_2021_paper.pdf) | [GitHub](https://github.com/sisinflab/CNNs-in-VRSs)       ![GitHub Repo stars](https://img.shields.io/github/stars/sisinflab/CNNs-in-VRSs)                |
 
 ## Leave a comment
-If you have attended the lecture, please leave a comment in this [**anonymous**](https://forms.gle/mEu79oy4YRtsL9g36) form. It will take a few minutes, but it can be very important to me to improve the quality of the lecture! Thank you for your contribution!
+If you have attended the lecture, please leave a comment in this [**anonymous**](https://forms.gle/mEu79oy4YRtsL9g36) form. It will take a few minutes, but it can be very important to me to improve the quality of the lecture! Thank you for your time and contribution!
 
 ## Credits
 
