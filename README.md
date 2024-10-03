@@ -42,9 +42,9 @@ On such premises, this lecture will delve into the topic of multimodal deep lear
 ## Useful resources
 
 ### Lecture resources
-* **Google drive folder:** _Coming soon_
+* **Google drive folder:** [link](https://drive.google.com/drive/folders/1UfrIBL_dRMkOeX-RTionN7Fzmktjq4DB?usp=sharing)
 * **Slides:** [link](https://github.com/danielemalitesta/Multimodal-DL-4-RecSys/blob/master/L14_Multimodal_Deep_Learning_for_Recommendation.pdf)
-* **Google Colab:** _Coming soon_
+* **Google Colab:** [link](https://colab.research.google.com/drive/1Utd8TcytMfyeZUKTsb67AE0QzIACQQp6?usp=drive_link)
 
 ### Other useful resources
 
